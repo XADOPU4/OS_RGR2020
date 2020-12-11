@@ -10,6 +10,13 @@ PID:3  ArrivalTime:3 BurstTime:10 Priority:0
 PID:4  ArrivalTime:5 BurstTime:7 Priority:2
 PID:5  ArrivalTime:1 BurstTime:5 Priority:3
 
+5
+1 0 14 2
+2 7 8 1
+3 3 10 0
+4 5 7 2
+5 1 5 3
+
 Вывод:
 PID:1 ResTime:0 FinishTime:44 WaitingTime:30
 PID:2 ResTime:0 FinishTime:31 WaitingTime:16
